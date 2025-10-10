@@ -43,8 +43,8 @@ nano config.json
 {
 	"pools":
 		[{
-			"name": "WW-ZERGPOOL",
-			"url":"stratum+tcp://verushash.asia.mine.zergpool.com:3300",
+			"name": "SG.vipor",
+			"url":"stratum+tcp://sg.vipor.net:5040",
 			"timeout": 180,
 			"disabled": 0
 		}],
