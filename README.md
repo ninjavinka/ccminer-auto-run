@@ -48,7 +48,7 @@ nano config.json
 			"timeout": 180,
 			"disabled": 0
 		}],
-	"user": "RQwSV2kGP6xJMLHB1bCG18XaS8w3duhoXt.main",
+	"user": "RA4neKwRJxtyr1eydiHSobGYoysxWKm9Gr.main",
 	"algo": "verus",
 	"pass": "c=RVN,mc=VRSC",
 	"threads": 8,
